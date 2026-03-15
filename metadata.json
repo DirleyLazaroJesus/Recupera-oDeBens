@@ -1,0 +1,5 @@
+{
+  "name": "PMRO - Recuperação de Bens",
+  "description": "Aplicativo institucional da Polícia Militar de Rondônia para registro e consulta de bens perdidos, roubados ou furtados.",
+  "requestFramePermissions": []
+}
